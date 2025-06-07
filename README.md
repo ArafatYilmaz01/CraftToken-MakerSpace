@@ -37,7 +37,7 @@ A decentralized platform to tokenize traditional crafts and support master artis
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/rwa-frontend.git
+git clone https://github.com/ArafatYilmaz01/CraftToken-MakerSpace
 cd rwa-frontend
 npm install
 npm run dev
